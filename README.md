@@ -1,4 +1,4 @@
-# fraudfinder
+# fraudfinder :mag_right::smiling_imp::suspect:
 fraudfinder : Historical Payment Transactions # Fraud Detection # EDA # Feature Store # Model Registry
 
 
