@@ -31,8 +31,6 @@ fraudfinder : Historical Payment Transactions # Fraud Detection # EDA # Feature 
 
 ![fraudfinder008.png](./media/fraudfinder008.png)
 
-![fraudfinder008.png](./media/fraudfinder008.png)
-
 ![fraudfinder009.png](./media/fraudfinder009.png)
 
 ![fraudfinder010.png](./media/fraudfinder010.png)
